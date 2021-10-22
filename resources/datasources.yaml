@@ -4,7 +4,7 @@ metadata:
   name: grafana-datasources
   labels:
      grafana_datasource: "1"
-     namespace: observability
+  namespace: observability
 data:
   datasource.yaml: |-
      apiVersion: 1
